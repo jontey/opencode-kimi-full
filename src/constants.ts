@@ -6,7 +6,7 @@
 // NOTE: client_id is a public constant shipped inside the official CLI, not a
 // secret.
 
-export const KIMI_CODE_CLI_VERSION = "0.14.2"
+export const KIMI_CODE_CLI_VERSION = "0.22.1"
 // Upstream User-Agent is "kimi-code-cli/<version>". This must match verbatim —
 // Moonshot's `kimi-for-coding` backend 403s on any other UA prefix
 // ("access_terminated_error: only available for Coding Agents").
